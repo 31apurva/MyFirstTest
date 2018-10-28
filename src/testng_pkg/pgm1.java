@@ -14,6 +14,8 @@ public class pgm1
 	public void t2()
 	{
 		
+		
+		
 	}
 	
 	@Test
