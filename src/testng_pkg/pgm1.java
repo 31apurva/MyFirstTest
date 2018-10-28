@@ -13,8 +13,7 @@ public class pgm1
 	@Test
 	public void t2()
 	{
-		
-		
+
 		
 	}
 	
