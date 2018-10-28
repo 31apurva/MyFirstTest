@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="testng_pkg.default_testng"/>
+      <class name="testng_pkg.naukri"/>
+      <class name="testng_pkg.pgm1"/>
+      <class name="testng_pkg.pgm2"/>
+      <class name="testng_pkg.pgm3_priority"/>
+      <class name="testng_pkg.pgm4_annotation"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

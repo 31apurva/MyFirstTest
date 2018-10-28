@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="UN" value="apurva"> </parameter>
+  <parameter name="PWD" value="apurva123"> </parameter>
+    <classes>
+      <class name="testng_pkg.parameter_pgm"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
